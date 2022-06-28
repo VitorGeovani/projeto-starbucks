@@ -4,7 +4,7 @@
 
 <div align="center">
  <img src="https://img.shields.io/badge/-HTML5-FFF?logo=html5&logoColor=orange&style=flat" />
- <img src="https://img.shields.io/badge/CSS3-1657f9?style=&logo=css3&logoColor=white" />
+ <img src="https://img.shields.io/badge/CSS3-3d8fc6?style=&logo=css3&logoColor=white" />
  <img src="https://img.shields.io/github/repo-size/VitorGeovani/projeto-starbucks">
  <img src="https://img.shields.io/github/last-commit/VitorGeovani/projeto-starbucks">
  <img src="https://img.shields.io/github/forks/VitorGeovani/projeto-starbucks?style=social" />
